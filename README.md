@@ -215,7 +215,7 @@ Highlights to specific important notes
 
 Got rid of labels for visual purposes
 
-Combined Figma and Tableau (used dashboard created in Figma as the background for my Tableau Dashboard) to create a final prototype (Figure 2 below)
+Combined Figma and Tableau (used dashboard created in Figma as the background for my Tableau Dashboard) to create a final prototype 
 
 Made minor edits to design elements and created final dashboard 
 Adding horizontal grid lines to a few of the charts
